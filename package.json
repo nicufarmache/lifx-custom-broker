@@ -1,0 +1,24 @@
+{
+  "name": "lifx-custom-broker",
+  "version": "1.0.0",
+  "description": "A broker for lifx lights that allows control using simpler udp packets Edit",
+  "main": "udp.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-lifx": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicufarmache/lifx-custom-broker.git"
+  },
+  "author": "Nicu Farmache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicufarmache/lifx-custom-broker/issues"
+  },
+  "homepage": "https://github.com/nicufarmache/lifx-custom-broker#readme"
+}
